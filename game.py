@@ -47,5 +47,5 @@ while True:
 
 
     else:
-        print("Alege DA sau NU")
+        print("Choose y sau n")
         decizie = input()
